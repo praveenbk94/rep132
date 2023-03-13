@@ -35,3 +35,18 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+1
+11
+
+12
+
+1
+2
+1
+2Scanner sc = new Scanner(System.in);  
+System.out.print("Enter the value of n: ");  
+int n = sc.nextInt();  
+System.out.println();  
+//function calling  
+printPattern(n); 
+22
